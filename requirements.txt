@@ -5,7 +5,7 @@ Flask-Mail==0.9.1
 Flask-Migrate==3.1.0
 Werkzeug==2.1.1
 SQLAlchemy==1.4.32
-reportlab==3.6.12
+reportlab>=4.2.0
 PyPDF2
 Celery
 Redis
